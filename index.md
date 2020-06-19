@@ -11,3 +11,6 @@ Der Doktor ist der Protagonist der BBC-Serie "Doctor Who". Er ist ein Zeitreisen
 * große Nase
 
 > What're you gonna do? Moisturize me?
+
+<img src="https://en.wikipedia.org/wiki/Ninth_Doctor#/media/File:Ninth_Doctor_(Doctor_Who).jpg"/>
+
